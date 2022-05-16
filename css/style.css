@@ -1,0 +1,24 @@
+  /* Grouping Selector*/
+  div,p{
+    color: red;
+}
+/* Universal Selector */
+*{
+    text-align: center;
+
+}
+/* Class Selector*/
+.avi{
+    height: 100px;
+    width: 100px;
+
+}
+ /* Id Selector*/
+#a{
+    border: 2px solid green;
+}
+ /*element selector*/
+
+ div{
+     margin-left: 5px;
+ }
